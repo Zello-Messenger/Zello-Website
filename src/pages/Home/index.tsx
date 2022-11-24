@@ -89,7 +89,7 @@ const Home: React.FC = () => (
         </CommunityFeature>
       </CommunitySection>
       <AppSection>
-        <h1>O app</h1>
+        <h1>O app teste</h1>
         <img src={carouselImage1} alt="Zello Messenger" />
       </AppSection>
       <Separator />
