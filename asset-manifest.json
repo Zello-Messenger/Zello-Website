@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.4d7d9952.js",
+    "main.js": "/static/js/main.6f8c055f.js",
     "static/js/787.e30ede74.chunk.js": "/static/js/787.e30ede74.chunk.js",
     "static/media/zello_mockup.svg": "/static/media/zello_mockup.cc358aad64900651137f3845fa9c64ff.svg",
     "static/media/carousel_image_1.svg": "/static/media/carousel_image_1.dd23a483f6d67c1f9a75c58846dfb13f.svg",
@@ -19,11 +19,11 @@
     "static/media/instagram_logo.svg": "/static/media/instagram_logo.9c4e1052f0ffd9102b591e4b0215a474.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.4d7d9952.js.map": "/static/js/main.4d7d9952.js.map",
+    "main.6f8c055f.js.map": "/static/js/main.6f8c055f.js.map",
     "787.e30ede74.chunk.js.map": "/static/js/787.e30ede74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4d7d9952.js"
+    "static/js/main.6f8c055f.js"
   ]
 }
