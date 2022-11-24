@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.312822a7.js",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.4d7d9952.js",
     "static/js/787.e30ede74.chunk.js": "/static/js/787.e30ede74.chunk.js",
+    "static/media/zello_mockup.svg": "/static/media/zello_mockup.cc358aad64900651137f3845fa9c64ff.svg",
+    "static/media/carousel_image_1.svg": "/static/media/carousel_image_1.dd23a483f6d67c1f9a75c58846dfb13f.svg",
+    "static/media/testimony_image.svg": "/static/media/testimony_image.65baa48e4fc0ca6b773fcbd3da2f179f.svg",
+    "static/media/app_store_logo.svg": "/static/media/app_store_logo.35985a86db48a03ff6b5660fc59b298c.svg",
+    "static/media/zello_footer_logo.svg": "/static/media/zello_footer_logo.ee1ac75196a107f2efcee93c74efac8d.svg",
     "static/media/header_logo.svg": "/static/media/header_logo.00557c5086a3c11714cfb6b6b66716f8.svg",
+    "static/media/zello_medium_logo.svg": "/static/media/zello_medium_logo.306c5d9823644373de9ed6d9a722fd5b.svg",
+    "static/media/testimony_message.svg": "/static/media/testimony_message.4f6b3916f894a64ac94a271649e0e404.svg",
+    "static/media/qrcode_icon.svg": "/static/media/qrcode_icon.87df62f44e2e0b059c7551078a9c2061.svg",
+    "static/media/message_icon.svg": "/static/media/message_icon.d49b6c2416030a7dc552b60bc53a3547.svg",
+    "static/media/link_icon.svg": "/static/media/link_icon.3504d95ef8471581d60ff0f10d0fbd98.svg",
+    "static/media/priority_icon.svg": "/static/media/priority_icon.53574e5045729039216a55677fca28f7.svg",
+    "static/media/clock_icon.svg": "/static/media/clock_icon.2540f61112e980d9799ba77c4b7214a2.svg",
+    "static/media/instagram_logo.svg": "/static/media/instagram_logo.9c4e1052f0ffd9102b591e4b0215a474.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.312822a7.js.map": "/static/js/main.312822a7.js.map",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.4d7d9952.js.map": "/static/js/main.4d7d9952.js.map",
     "787.e30ede74.chunk.js.map": "/static/js/787.e30ede74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.312822a7.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d7d9952.js"
   ]
 }
